@@ -1,1 +1,1 @@
-# MyPlace
+# Qt Mail for send and receive
